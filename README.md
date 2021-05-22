@@ -1,6 +1,6 @@
 # LoginAndRegisterBackend
 
-Bir E-Ticaret sisteminde sisteme kayıt ve sisteme giriş için Java backend yazma alıştırması.
+Bir E-Ticaret sisteminde sisteme kayıt ve sisteme giriş için Java backend alıştırması.
 
 İşte oluşturulacak sistem ile ilgili kriterler:
 Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
